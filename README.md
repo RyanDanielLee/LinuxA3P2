@@ -1,4 +1,4 @@
-## Locations:
+# File Path Locations
 **index.html**: /var/www/my-site
 
 **hello.conf**: /etc/nginx/sites-available/hello.conf
